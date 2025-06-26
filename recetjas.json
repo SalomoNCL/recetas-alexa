@@ -1,0 +1,27 @@
+[
+  {
+    "titulo": "Empanadas de Pino",
+    "ingredientes": [
+      "harina", "manteca", "cebolla", "carne molida", "huevos cocidos", "pasas", "aceitunas", "sal", "comino"
+    ],
+    "pasos": [
+      "Preparar la masa mezclando harina, manteca y agua.",
+      "Sofreír cebolla y carne con condimentos.",
+      "Rellenar con huevo, pasas y aceitunas.",
+      "Cerrar y hornear a 200 grados por 15 minutos."
+    ],
+    "tiempo_total": 90
+  },
+  {
+    "titulo": "Cazuela de Vacuno",
+    "ingredientes": [
+      "carne de vacuno", "papa", "zapallo", "zanahoria", "choclo", "arroz", "sal", "ajo", "cebolla"
+    ],
+    "pasos": [
+      "Hervir la carne en agua con sal y ajo.",
+      "Agregar verduras trozadas y cocinar por 45 minutos.",
+      "Servir caliente con arroz y caldo."
+    ],
+    "tiempo_total": 60
+  }
+]
